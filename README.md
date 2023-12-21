@@ -1,4 +1,4 @@
-# Tranformacoes-Geometricas
+# Tranformações Geométricas
 Código para transformações geométricas em Python desenvolvido na disciplina de Computação Gráfica.
 
 ## Tranformações Geométricas
