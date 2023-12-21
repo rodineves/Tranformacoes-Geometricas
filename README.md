@@ -1,14 +1,14 @@
 # Tranformações Geométricas
 Código para transformações geométricas em Python desenvolvido na disciplina de Computação Gráfica.
 
-## Tranformações Geométricas
+## Tranformações Disponíveis
 
 1. Translação
 2. Escala
 3. Rotação
 4. Espelhamento
 
-## Bibliotecas Necessárias
+## 📖 Bibliotecas Necessárias
 - Pillow (PIL)
 - Numpy
 - Math
